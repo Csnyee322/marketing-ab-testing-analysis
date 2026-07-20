@@ -2,7 +2,7 @@
 
 An end-to-end analysis of a large-scale marketing A/B test, examining whether showing users a product advertisement increases conversion compared to a public service announcement (PSA) control group. Built with a **Python → PostgreSQL → Tableau** pipeline, with a strong emphasis on statistical rigor: hypothesis testing, effect size, and power analysis — not just p-values.
 
-**[View the interactive Tableau Story →](https://public.tableau.com/views/ABTestingAnalysis_17845301173950/ABTestingAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the interactive Tableau Story](https://public.tableau.com/views/ABTestingAnalysis_17845301173950/ABTestingAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ---
 
 ## Project Overview
