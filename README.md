@@ -4,6 +4,9 @@ An end-to-end analysis of a large-scale marketing A/B test, examining whether sh
 
 **[🔗View the interactive Tableau Story](https://public.tableau.com/views/ABTestingAnalysis_17845301173950/ABTestingAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ---
+## Executive Summary
+
+This analysis answers whether a marketing team's ad campaign is worth its spend — and whether the test itself was run efficiently. The ad group converted 43% better than the control (2.55% vs 1.79%, p < 0.0001), supporting a full rollout. But the effect size is small (Cohen's h = 0.053); the test only reached significance because of its massive sample size (588K users), when ~5,588 per group would have sufficed for 80% power. The practical takeaway: the ad works, and future tests on similar effects can be run at a fraction of the cost and time.
 
 ## Project Overview
 
